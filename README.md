@@ -50,10 +50,6 @@ To demonstrate how machine learning can be applied to real-world education data 
 
 ## 📁 Project Structure
 
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies
-└── students.csv # Sample dataset
-
 streamlit-app/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Project dependencies
