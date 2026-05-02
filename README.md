@@ -50,6 +50,15 @@ To demonstrate how machine learning can be applied to real-world education data 
 
 ## 📁 Project Structure
 
+👉 Tell GitHub:
+> “Render this as code (fixed spacing + formatting)”
+
+---
+
+# 🎯 What it should look like AFTER
+
+You’ll get a grey box like:
+
 streamlit-app/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Project dependencies
