@@ -48,24 +48,6 @@ To demonstrate how machine learning can be applied to real-world education data 
 
 ---
 
-## 📁 Project Structure
-
-👉 Tell GitHub:
-> “Render this as code (fixed spacing + formatting)”
-
----
-
-# 🎯 What it should look like AFTER
-
-You’ll get a grey box like:
-
-streamlit-app/
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Project dependencies
-└── students.csv        # Sample dataset
-
----
-
 ## ▶️ Running the App
 
 ### Option 1 – Local
@@ -76,6 +58,7 @@ streamlit run app.py
 
 ### Option 2 – Live App
 👉 Access the deployed app here:  
+
 https://app-app-3qljs2ncjtpzmssxozrgo2.streamlit.app/
 
 ---
