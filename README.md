@@ -67,7 +67,7 @@ streamlit run app.py
 
 ### Option 2 – Live App
 👉 Access the deployed app here:  
-**[[[Insert your Streamlit link here](https://app-app-3qljs2ncjtpzmssxozrgo2.streamlit.app/)]**](https://app-app-3qljs2ncjtpzmssxozrgo2.streamlit.app/)
+https://app-app-3qljs2ncjtpzmssxozrgo2.streamlit.app/
 
 ---
 
@@ -97,5 +97,5 @@ The model highlights which factors most influence student completion, helping or
 
 ---
 
-## 👤 Author
+## 👤 Ruhail rana
 Developed as part of an AI and data learning journey, focusing on applying machine learning to real-world problems and deploying usable tools.
