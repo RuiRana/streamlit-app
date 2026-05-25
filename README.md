@@ -61,8 +61,6 @@ streamlit run app.py
 
 https://app-app-3qljs2ncjtpzmssxozrgo2.streamlit.app/
 
-## 📁 Included Sample Dataset
-
 This repository includes a sample dataset (`students.csv`) so users can test the application immediately without needing to upload their own data.
 
 Users may also upload custom CSV datasets directly through the Streamlit interface.
